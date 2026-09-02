@@ -7,7 +7,8 @@ spike lattice that forms when a ferrofluid surface is destabilised by a normal
 magnetic field.
 
 <p align="center">
-  <img src="assets/figures/reconstruction_3d.png" alt="Reconstructed Rosensweig topography" width="88%">
+  <a href="results/ferrofluid_render_public.html"><strong>▶ Open the interactive 3D render</strong></a><br>
+  <sub>Self-contained Plotly export — rotate, zoom and inspect the reconstructed surface. Works offline.</sub>
 </p>
 
 > **Research project · April – June 2026**
