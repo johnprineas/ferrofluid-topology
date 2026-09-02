@@ -1,0 +1,22 @@
+# Spike count vs. coil drive, INCREASING field (up-sweep).
+# Transcribed from source_spike_count_tables.png (left table).
+# "Primary" = first spike appearing at instability onset (count not yet resolved as an integer).
+# run: A and C are separate up-sweeps; C additionally has a Hall-probe reading at the dish centre.
+run,spikes,voltage_V,current_mA,B_centre_mT
+A,Primary,17.852,189.29,
+A,4->3,18.810,199.35,
+A,6,20.254,214.49,
+A,8,21.094,223.32,
+A,14,23.029,243.63,
+A,19,25.748,272.11,
+A,21,28.681,302.33,
+A,27,30.102,316.18,
+C,0,17.011,177.55,10.1
+C,0,18.009,187.96,10.6
+C,1,19.030,198.61,11.4
+C,4,19.997,208.64,11.8
+C,7,21.090,219.99,12.8
+C,7,21.996,229.38,14.3
+C,7,23.036,240.09,14.8
+C,12,24.058,250.57,16.8
+C,14,25.007,260.31,

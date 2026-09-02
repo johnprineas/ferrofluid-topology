@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: "Ferrofluid Topology: structured-light 3D reconstruction of the Rosensweig instability"
+message: "If you use this software or data, please cite it as below."
+type: software
+authors:
+  - family-names: Prineas
+    given-names: John
+repository-code: "https://github.com/johnprineas/ferrofluid-topology"
+abstract: >-
+  A fringe-projection profilometry pipeline for measuring the surface topology of
+  magnetised ferrofluid. Camera intrinsics are recovered as Brown-Conrady distortion
+  coefficients from a projected checkerboard; projector extrinsics from asymmetric
+  circle-grid detection and solvePnP, validated against synthetic keystone homographies
+  at known pitch, yaw and roll. Fringe centrelines are extracted by sub-pixel Gaussian
+  peak fitting, indexed by phase unwrapping and triangulated to a height field. Used to
+  measure the Rosensweig critical wavelength as 8.3 +/- 0.4 mm at 10.6 mT against a
+  7.6-9.8 mm ferrohydrodynamic continuum prediction.
+keywords:
+  - ferrofluid
+  - Rosensweig instability
+  - structured light
+  - fringe projection profilometry
+  - camera calibration
+  - computer vision
+license: MIT
+date-released: "2026-06-30"

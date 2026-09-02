@@ -1,0 +1,13 @@
+# Spike count vs. coil drive, DECREASING field (down-sweep) - shows hysteresis against the up-sweep.
+# Transcribed from source_spike_count_tables.png (left table, orange columns).
+# "a->b" = the count was collapsing from a to b at this drive point.
+run,spikes,voltage_V,current_mA
+B,25,27.252,285.34
+B,19,25.659,268.16
+B,14,24.525,256.13
+B,12,23.226,242.39
+B,10->8,21.830,227.76
+B,7->4,19.871,207.20
+B,3,19.014,198.25
+B,Primary,18.448,192.31
+B,0,17.971,187.33

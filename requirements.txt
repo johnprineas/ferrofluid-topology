@@ -1,0 +1,12 @@
+# Core pipeline: calibration, fringe extraction, triangulation
+numpy>=1.24
+opencv-python>=4.8
+scipy>=1.10
+
+# Rendering
+matplotlib>=3.7
+plotly>=5.18
+
+# Optional: Gen8.1.py publishes its render to a shareable Chart Studio link.
+# Everything else works without it.
+# chart-studio>=1.1

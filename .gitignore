@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Calibration profiles are per-camera and per-session; the tuner writes them with a
+# random token. Commit a curated one under calibration/ instead.
+my_lens_metrics_*.json
+
+# Generated projector targets (regenerate with patterns/*.py)
+centered_projector_grid_*.png
+centered_projector_grid_*.bmp
+centered_asymmetric_circles_*.png
+centered_asymmetric_circles_*.bmp
+simulated_keystone_*.png
+
+# Pipeline intermediates
+smoothed_lines.png
+puzzle_composite_for_tracing.png
+rtest*_calibrated.jpeg
+
+# OS
+.DS_Store
+Thumbs.db

@@ -1,0 +1,19 @@
+# Electromagnet calibration: coil drive vs. axial flux density at the dish centre.
+# Transcribed from source_electromagnet_calibration.png (original spreadsheet).
+# B measured with a Hall probe at the centre of the sample dish.
+current_mA,voltage_V,B_mT
+11.07,1.0503,0.6
+32.79,3.1111,1.7
+56.54,5.3550,2.9
+75.84,7.1810,3.9
+99.71,9.4420,5.2
+120.41,11.4000,6.3
+142.68,13.5090,7.4
+172.57,16.3400,9.0
+197.24,18.6770,10.3
+219.02,20.7450,11.5
+245.90,23.3120,13.6
+269.31,25.5350,14.9
+289.05,27.4220,16.0
+311.48,29.5680,17.2
+321.02,30.4930,17.7

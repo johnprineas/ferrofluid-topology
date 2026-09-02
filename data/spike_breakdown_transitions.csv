@@ -1,0 +1,33 @@
+# Spike-count breakdown transitions during down-sweep: the drive point at which the
+# lattice collapsed from one spike count to the next.
+# Transcribed from source_spike_count_tables.png (right table). Runs D and E are repeat sweeps.
+# Blank / "approx" cells in the source are recorded as approx=1 or an empty value.
+run,transition,voltage_V,current_mA,approx
+D,30->29,28.007,293.74,0
+D,29->27,26.901,281.82,0
+D,27->23,25.753,269.64,0
+D,23->22,25.081,262.52,0
+D,22->20,24.090,252.01,0
+D,20->19,23.520,245.99,0
+D,19->14,23.135,241.86,0
+D,14->12,21.577,225.47,0
+D,12->10,20.403,213.18,0
+D,10->8,20.3,,1
+D,8->7->4,18.572,193.98,0
+D,4->3,17.8,185,1
+D,3->1,17.357,181.32,0
+D,1->0,17.016,177.70,0
+E,29->28,27.119,282.57,0
+E,28->25,26.446,275.46,0
+E,25->22,25.503,265.56,0
+E,22->20,24.486,254.81,0
+E,20->18,23.594,245.45,0
+E,18->14,23.009,239.32,0
+E,14->12,21.816,226.87,0
+E,12->10,20.583,214.05,0
+E,10->7,19.989,207.87,0
+E,7->4,18.521,192.59,0
+E,4->3,17.863,185.77,0
+E,3->2,17.366,180.60,0
+E,2->1,17.241,179.28,0
+E,1->0,16.767,174.40,0
