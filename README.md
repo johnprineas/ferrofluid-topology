@@ -2,8 +2,7 @@
 
 **Structured-light 3D reconstruction of the Rosensweig instability in magnetised ferrofluid.**
 
-A fringe-projection profilometry bench, the calibration and reconstruction code that
-drives it, and the measurement it was built to make: the critical wavelength of the
+Fringe-projection profilometry, the calibration and code for it, and the measurement it was built to make: the critical wavelength of the
 spike lattice that forms when a ferrofluid surface is destabilised by a normal
 magnetic field.
 
@@ -209,8 +208,8 @@ tools open OpenCV GUI windows and use arrow-key HUDs.
 | Optics | Crossed linear polarisers | Kills the specular glare off a mirror-black liquid |
 | Field | Coil + Hall probe | 0 – 17.7 mT at the dish centre, calibrated in `data/` |
 
-Details and the reasoning behind each choice: **[docs/HARDWARE.md](docs/HARDWARE.md)**.
 
+Vibe coding was used in trial and error script modification
 ---
 
 ## License
