@@ -97,7 +97,8 @@ The lattice is also hysteretic — the bifurcation is subcritical, so spikes app
 
 
 ---
-
+## Acknowledgments
+AI helped me create skeletons of some code which were adapted and added-to throughout the experimental process
 ## License
 
 [MIT](LICENSE).
