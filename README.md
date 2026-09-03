@@ -60,6 +60,8 @@ where:
 
 <p align="center">
 <img width="2880" height="1800" alt="Screenshot From 2026-09-03 05-27-02" src="https://github.com/user-attachments/assets/587b92e0-b13a-4dd8-960e-463034070d96" />
+<img width="2880" height="1800" alt="Screenshot From 2026-09-03 05-13-14" src="https://github.com/user-attachments/assets/2a34e46f-ce19-4ff5-8495-2f2500b3abe1" />
+
 Spike counts, drive currents and Hall-probe readings are in [`data/`](data/). Full docs/RESULTS: [docs/RESULTS.md](docs/RESULTS.md).
 
 
