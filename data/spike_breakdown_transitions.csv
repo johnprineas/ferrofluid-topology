@@ -1,7 +1,3 @@
-# Spike-count breakdown transitions during down-sweep: the drive point at which the
-# lattice collapsed from one spike count to the next.
-# Transcribed from source_spike_count_tables.png (right table). Runs D and E are repeat sweeps.
-# Blank / approx cells in the source are recorded as approx=1 or an empty value.
 run,transition,voltage_V,current_mA,approx
 D,30->29,28.007,293.74,0
 D,29->27,26.901,281.82,0
